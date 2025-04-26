@@ -9,7 +9,7 @@ Your security team's job is to:
 
     Compare the different versions to identify what was changed, added, or hidden across updates.
 
-    Investigate the version control system (e.g., Git) to track the commit history and understand the full picture.
+    Investigate the version control system to track the commit history and understand the full picture.
 
     Determine if the developer was attempting to leak sensitive logic, introduce a backdoor, or hide malicious code.
 
