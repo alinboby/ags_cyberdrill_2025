@@ -5,7 +5,7 @@
 
 AGS Quality Action Limited, Software Testing Laboratory (STL) is a first only one ISO/IEC 17025:2017 Accredited by Bangladesh Accreditation Board (BAB), under the Ministry of Industries.
 
-ags_
+cyberdrill{
 
 **Cyber Drill Platform : BD Govt. Cert CTF Platform, ICT Ministry.**
 
