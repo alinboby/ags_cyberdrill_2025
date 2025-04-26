@@ -1,5 +1,3 @@
-## The Hidden Voice
-
 An employee’s computer was found sending an audio file to an unknown email address. The file sounds like a normal voice message, but something seems suspicious. Your task is to check if the audio contains any hidden message.
 
 Your mission as part of the incident response team is to:
@@ -11,7 +9,9 @@ Your mission as part of the incident response team is to:
     Trace the origin of the activity—determine if the employee's system was compromised, and by whom.
 
     Report your findings, highlighting the method of exfiltration and proposing mitigation techniques to prevent such incidents in the future.
-    
-Attachment: chall.wav
+
+format: ags_cyberdrill{*}
+
+attachment: chall.wav
 
 > Author : [HxN0n3](https://www.linkedin.com/in/hxn0n3/)
